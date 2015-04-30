@@ -7,3 +7,6 @@ I don't want to create a seperate repository for each and every one of my hacks,
 
 ##1. Python event loop
 Try to emulate the Node.js event loop in python. Make all I/O interaction non blocking and file related operations take a callback function.
+
+##2. API for hackster.io
+A Node.JS api for accessing contents on Hackster.io. This should be accompanied by an ionic based mobile app.
