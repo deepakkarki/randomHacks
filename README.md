@@ -10,3 +10,6 @@ Try to emulate the Node.js event loop in python. Make all I/O interaction non bl
 
 ##2. API for hackster.io
 A Node.JS api for accessing contents on Hackster.io. This should be accompanied by an ionic based mobile app.
+
+##3. A WebRTC based P2P video chatting application
+I have wanted to play with WebRTC and video streaming for a long time. What better way than to try it with this hack!
